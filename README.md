@@ -6,7 +6,7 @@
 
 :yum: 项目演示地址：[移动端音乐 WebApp](http://yiwai.online)，或者可以扫描二维码访问：
 
-![二维码](./doc/img/vue-music.png)
+![二维码](https://s1.ax1x.com/2020/10/23/BEDN26.gif)
 
 - 推荐使用手机预览，电脑在 Chrome 调试模式下食用效果更佳，开启调试模式的手机模式后，如果不能滚动，刷新一下页面即可
 
